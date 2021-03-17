@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/politiken/static/css/main.d6b95701.chunk.css",
+    "main.js": "/politiken/static/js/main.77192c02.chunk.js",
+    "main.js.map": "/politiken/static/js/main.77192c02.chunk.js.map",
+    "runtime-main.js": "/politiken/static/js/runtime-main.bc5d60e0.js",
+    "runtime-main.js.map": "/politiken/static/js/runtime-main.bc5d60e0.js.map",
+    "static/js/2.03b218e4.chunk.js": "/politiken/static/js/2.03b218e4.chunk.js",
+    "static/js/2.03b218e4.chunk.js.map": "/politiken/static/js/2.03b218e4.chunk.js.map",
+    "index.html": "/politiken/index.html",
+    "static/css/main.d6b95701.chunk.css.map": "/politiken/static/css/main.d6b95701.chunk.css.map",
+    "static/js/2.03b218e4.chunk.js.LICENSE.txt": "/politiken/static/js/2.03b218e4.chunk.js.LICENSE.txt",
+    "static/media/politiken.scss": "/politiken/static/media/FlamaBook Regular.84e7ea8b.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc5d60e0.js",
+    "static/js/2.03b218e4.chunk.js",
+    "static/css/main.d6b95701.chunk.css",
+    "static/js/main.77192c02.chunk.js"
+  ]
+}
